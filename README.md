@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web service - v1Bhargavan, v2Swathi, v2Babitha,BhargavanTest
+Welcome to the AWS CodeStar sample web service - v1Bhargavan, v2Swathi, v2Babitha,BhargavanTest, Today Monday
 ==============================================
 
 This sample code helps get you started with a simple Python web service using
